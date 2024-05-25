@@ -1,0 +1,12 @@
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\bin\Debug\Change_Toys.exe.config
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\bin\Debug\Change_Toys.exe
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\bin\Debug\Change_Toys.pdb
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.exe
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_Toys.pdb
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\Asus\OneDrive\Документы\GitHub\Бригада\WPF\Change_Toys\obj\Debug\Change_T.8FAF6275.Up2Date
